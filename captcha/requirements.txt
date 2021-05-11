@@ -1,3 +1,7 @@
+flask==1.1.2
+numpy==1.20.3
+opencv-python==4.5.2.52
+pattern==3.6
 selenium==3.141.0
 selenium-wire==4.2.5
 undetected-chromedriver==2.2.7
